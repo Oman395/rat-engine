@@ -1,0 +1,15 @@
+{
+  "name": "rat-engine",
+  "version": "0.0.63",
+  "description": "Simple pixi.js based game engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oran RH",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^14.0.1",
+    "pixi.js": "^6.1.3"
+  }
+}
